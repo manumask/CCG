@@ -11,8 +11,8 @@
       <HintPath>bin/ProcessMakerSDK.dll</HintPath>
     </Reference>
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
-    <PackageReference Include="Pastel.Evolution"/>
-    <PackageReference Include="Pastel.Evolution.Common"/>
+    <PackageReference Include="Pastel.Evolution" Version="6.50.1.10"/>
+    <PackageReference Include="Pastel.Evolution.Common" Version="6.50.1.10"/>
   </ItemGroup>
 
 </Project>
